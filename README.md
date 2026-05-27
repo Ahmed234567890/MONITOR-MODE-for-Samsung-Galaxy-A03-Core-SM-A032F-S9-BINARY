@@ -65,5 +65,4 @@ Adjust paths depending on your file location.
 
 
 
-
 <meta name="google-site-verification" content="UgRoZlu2K4hkawSEUIRvL9rbMSmgradulZBW3oWGJYY" />
