@@ -58,3 +58,12 @@ Adjust paths depending on your file location.
 * Experimental build
 * Successfully tested on SM-A032F (S9 binary)
 * Monitor mode support achieved via MT7601U adapter
+
+
+
+
+
+
+
+
+<meta name="google-site-verification" content="UgRoZlu2K4hkawSEUIRvL9rbMSmgradulZBW3oWGJYY" />
